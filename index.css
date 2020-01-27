@@ -4,9 +4,10 @@
 }
 
 @font-face {
-  font-family: ArialNarrow;
-  src: url(ARIALN.TTF);
+  font-family: arialnarrow;
+  src: url(arialnarrow.ttf);
 }
+
 
 
 
@@ -119,7 +120,7 @@ cursor: pointer
 .numero2 {
 	
 	font-size: 13px;
-	font-family: 'arialnarrow';
+	font-family: 'arialnarrow', sans-serif;
     -webkit-font-smoothing: antialiased;
 color:#A3A5A8;
 } 
@@ -127,7 +128,7 @@ color:#A3A5A8;
 
 .see {
 	font-size: 13px;
-	font-family: 'arialnarrow';
+	font-family: 'arialnarrow', sans-serif;
     -webkit-font-smoothing: antialiased;
     color:whitesmoke;
 	text-decoration: none;
