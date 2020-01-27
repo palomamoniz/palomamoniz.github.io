@@ -104,7 +104,7 @@ cursor: pointer
 .numero {
 	
 	font-size: 54px;
-	font-family: 'CheesyTots';
+	font-family: 'CheesyTots',sans-serif;
 	color:whitesmoke;
 	-webkit-font-smoothing: antialiased;
 	
