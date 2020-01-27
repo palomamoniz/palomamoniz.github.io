@@ -3,6 +3,12 @@
   src: url(CheesyTotsGX.ttf);
 }
 
+@font-face {
+  font-family: ArialNarrow;
+  src: url(ARIALN.TTF);
+}
+
+
 
 * {
 	box-sizing: border-box;
@@ -149,7 +155,7 @@ cursor: pointer
 	height: 100%;
 	display: flex;
 	margin: 0px;
-	font-family: 'Arial';
+	font-family: 'Arial', sans-serif;
 	color:whitesmoke;
 	font-size: 13px;
 	align-items: flex-start;
