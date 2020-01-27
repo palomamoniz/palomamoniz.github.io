@@ -1,3 +1,9 @@
+@font-face {
+  font-family: Cheesytots;
+  src: url(CheesyTotsGX.ttf);
+}
+
+
 * {
 	box-sizing: border-box;
 }
