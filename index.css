@@ -480,7 +480,7 @@ top: 27%;
 
 .menu:hover{
 	filter: blur(2px);
-    cursor: pointer
+    cursor: pointer;
 	
 }
 
