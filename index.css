@@ -118,6 +118,15 @@ height: 10%;
 }
 
 
+#invisible7 {
+width: 100%;
+height: 10%;
+	position: absolute;
+	margin-top: -2%;
+	
+}
+
+
 
 
 
@@ -302,7 +311,7 @@ cursor: pointer
 	padding: 10px;
 	opacity: 0;
 	transition: opacity 0.5s ease-in-out;
-  mix-blend-mode: difference;
+    mix-blend-mode: difference;
 }
 
 
@@ -455,6 +464,19 @@ top: 27%;
 	
 	
 }
+
+
+#menu7 {
+
+  width:20px;
+  height: 20px;
+  position: fixed;
+  left: 98%;
+  top: 33%;
+	
+	
+}
+
 
 
 
