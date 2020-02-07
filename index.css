@@ -139,12 +139,6 @@ height: 10%;
 
 
 
-.titulo{
-	  font-family: 'arialbold', sans-serif;
-}
-
-
-
 
 
 
@@ -199,7 +193,7 @@ cursor: pointer
 .numero {
 	
 	font-size: 42px;
-  font-family: 'Cheesytots', sans-serif;
+        font-family: 'Cheesytots', sans-serif;
 	color:whitesmoke;
 	-webkit-font-smoothing: antialiased;
 } 
