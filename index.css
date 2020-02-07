@@ -16,6 +16,16 @@
 }
 
 
+@font-face {
+  font-family: media;
+  src: url(GalapagosAB-Regular.otf);
+}
+
+
+
+
+
+
 
 * {
 	box-sizing: border-box;
@@ -25,26 +35,25 @@
 body {
 
 	background-color: black;
-	margin: 0px;
     display: flex;
-    justify-content: center;
 	flex-direction: column;
+	margin: 0px;
 
 } 
 
 #main {
 	width: 100vw;
-/*	height: 100vh;*/
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-left: 8px;  
+	padding-left: 8px;
+ 
 }
 
 
 #header {
 	width: 100%;
-	height: 10%;
+	height: 6%;
 	position: fixed;
 	top: 0;
 	display: flex;
@@ -52,8 +61,8 @@ body {
 	box-sizing: border-box;
 	margin: 0px;
 	z-index: 10;
-	mix-blend-mode: difference;
-	-webkit-font-smoothing: antialiased;
+    mix-blend-mode: difference;
+
 }
 
 
@@ -65,76 +74,74 @@ float: left;
 
 
 
+
+
+
+
+#invisible1 {
+width: 100%;
+height: 10%;
+	position: absolute;
+	margin-top: -2%;
+	
+}
+
+#invisible2 {
+width: 100%;
+height: 10%;
+	position: absolute;
+	margin-top: -2%;
+	
+}
+
+#invisible3 {
+width: 100%;
+height: 10%;
+	position: absolute;
+	margin-top: -2%;
+	
+}
+
+#invisible4 {
+width: 100%;
+height: 10%;
+	position: absolute;
+	margin-top: -2%;
+	
+}
+
+#invisible5 {
+width: 100%;
+height: 10%;
+	position: absolute;
+	margin-top: -2%;
+	
+}
+
+#invisible6 {
+width: 100%;
+height: 10%;
+	position: absolute;
+	margin-top: -2%;
+	
+}
+
+
+#invisible7 {
+width: 100%;
+height: 10%;
+	position: absolute;
+	margin-top: -2%;
+	
+}
+
+
+
+
+
 .titulo{
 	  font-family: 'arialbold', sans-serif;
 }
-
-
-
-#alwfav {
-width: 100%;
-height: 10%;
-	position: absolute;
-	margin-top: -2%;
-	
-}
-
-#ofmiceandmen {
-width: 100%;
-height: 10%;
-	position: absolute;
-	margin-top: -2%;
-	
-}
-
-#premiumhustler {
-width: 100%;
-height: 10%;
-	position: absolute;
-	margin-top: -2%;
-	
-}
-
-#ontherole {
-width: 100%;
-height: 10%;
-	position: absolute;
-	margin-top: -2%;
-	
-}
-
-#crisedeidentidade {
-width: 100%;
-height: 10%;
-	position: absolute;
-	margin-top: -2%;
-	
-}
-
-#cisterna {
-width: 100%;
-height: 10%;
-	position: absolute;
-	margin-top: -2%;
-	
-}
-
-
-#screensaviour {
-width: 100%;
-height: 10%;
-	position: absolute;
-	margin-top: -2%;
-	
-}
-
-
-
-
-
-.titulo{
-	
-
 
 
 
@@ -192,10 +199,9 @@ cursor: pointer
 .numero {
 	
 	font-size: 42px;
-	font-family: 'CheesyTots', sans-serif;
+  font-family: 'Cheesytots', sans-serif;
 	color:whitesmoke;
 	-webkit-font-smoothing: antialiased;
-	
 } 
 
 .numero2 {
