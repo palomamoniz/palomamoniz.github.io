@@ -332,6 +332,9 @@ cursor: pointer
 
 
 
+.titulo{
+	  font-family:'arialbold', sans-serif;
+}
 
 
 
@@ -580,9 +583,6 @@ margin-top: 31%;
 
 
 
-.titulo{
-	  font-family: 'arialbold', sans-serif;
-}
 
 
 
