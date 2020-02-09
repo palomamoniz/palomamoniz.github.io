@@ -60,6 +60,7 @@ body {
 	flex-direction:row;
 	box-sizing: border-box;
 	margin: 0px;
+	padding-left: 15px;
 	z-index: 10;
     mix-blend-mode: difference;
 
@@ -236,7 +237,6 @@ cursor: pointer
 	align-items: flex-start;
 	justify-content: flex-start;
 	box-sizing: border-box;
-	padding: 8px;
 	
 
 }
