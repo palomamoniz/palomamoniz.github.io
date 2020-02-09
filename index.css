@@ -227,11 +227,11 @@ cursor: pointer
 
 
 #header01 {
-	width: 9%;
+	width: 7%;
 	height: 100%;
 	display: flex;
 	margin-top: -5px;
-	font-family: 'arial', sans-serif;
+	font-family: 'arialbold', sans-serif;
 	color:whitesmoke;
 	font-size: 13px;
 	align-items: flex-start;
