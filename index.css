@@ -230,7 +230,7 @@ cursor: pointer
 	width: 9%;
 	height: 100%;
 	display: flex;
-	margin: 0px;
+	margin-top: -5px;
 	font-family: 'arial', sans-serif;
 	color:whitesmoke;
 	font-size: 13px;
@@ -248,6 +248,7 @@ cursor: pointer
 	align-items: flex-start;
 	justify-content: flex-start;
 	padding: 0px;
+	margin: -5px;
 	padding-left: 0%;
 }
 #header02 p {
