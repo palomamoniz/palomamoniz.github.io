@@ -17,10 +17,9 @@
 
 
 @font-face {
-  font-family: media;
-  src: url(GalapagosAB-Regular.otf);
+  font-family:metal;
+  src: url(metal.ttf);
 }
-
 
 
 
@@ -187,7 +186,8 @@ cursor: pointer
 .numero {
 	
 	font-size: 42px;
-        font-family: 'Cheesytots', sans-serif;
+        font-family: 'metal', sans-serif;
+	-webkit-text-stroke: 8px whitesmoke;
 	color:whitesmoke;
 	-webkit-font-smoothing: antialiased;
 } 
