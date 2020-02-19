@@ -188,8 +188,8 @@ cursor: pointer
 	
 	font-size: 42px;
         font-family: 'metal', sans-serif;
-	-webkit-text-stroke: 8px whitesmoke;
-	color:whitesmoke;
+	-webkit-text-stroke: 8px dimgrey;
+	color:dimgrey;
 	-webkit-font-smoothing: antialiased;
 } 
 
