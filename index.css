@@ -311,7 +311,7 @@ cursor: pointer
 	font-size: 13px;
 	font-family: 'Arial', sans-serif;
 	color:whitesmoke;
-	-webkit-text-stroke: 0.1px black;
+	-webkit-text-stroke: 0.1px white;
 	-webkit-font-smoothing: antialiased;
 }
 
