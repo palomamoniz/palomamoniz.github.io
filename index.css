@@ -195,7 +195,7 @@ cursor: pointer
 
 .numero2 {
 	
-	font-size: 13px;
+	font-size: 11px;
 	font-family: 'arialnarrow', sans-serif;
     -webkit-font-smoothing: antialiased;
     color:#A3A5A8;
@@ -228,7 +228,7 @@ cursor: pointer
 
 
 #header01 {
-	width: 7%;
+	width: 84%;
 	height: 100%;
 	display: flex;
 	margin-top: -5px;
@@ -242,17 +242,8 @@ cursor: pointer
 
 }
 
-#header02 {
-	width: 75%;
-	height: 100%;
-	display: flex;
-	align-items: flex-start;
-	justify-content: flex-start;
-	padding: 0px;
-	margin: -5px;
-	padding-left: 0%;
-}
-#header02 p {
+
+#textinfo {
 	font-family: 'Arial', sans-serif;
 	color:whitesmoke;
 	font-size: 13px;
@@ -481,7 +472,7 @@ pointer-events:none;
 .menu-list {
 	
 
-    width: 18%;
+    width: 15%;
 	display: flex;
 	flex-direction:row;
 	box-sizing: border-box;
@@ -498,7 +489,7 @@ pointer-events:none;
 .menu {
 	
 	font-size: 13px;
-	font-family: 'Arial', sans-serif;
+	font-family: 'arialbold', sans-serif;
     -webkit-font-smoothing: antialiased;
     color:whitesmoke;
 	text-decoration: none;
