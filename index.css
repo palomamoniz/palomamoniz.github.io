@@ -226,6 +226,10 @@ cursor: pointer
 } 
 
 
+.emoji{
+	font-size: 9px;
+}
+
 
 #header01 {
 	width: 84%;
