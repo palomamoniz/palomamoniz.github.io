@@ -235,7 +235,7 @@ cursor: pointer
 	width: 84%;
 	height: 100%;
 	display: flex;
-	margin-top: -5px;
+	margin-top: -3px;
 	font-family: 'arialbold', sans-serif;
 	color:whitesmoke;
 	font-size: 13px;
@@ -481,7 +481,7 @@ pointer-events:none;
 	flex-direction:row;
 	box-sizing: border-box;
     float: right;
-	margin-top:-5px;
+	margin-top:-3px;
 	align-content: flex-end;
 	align-items: flex-end;
 	text-align: right;
