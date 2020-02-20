@@ -320,8 +320,7 @@ cursor: pointer
 	font-size: 13px;
 	font-family: 'Arial', sans-serif;
 	color:whitesmoke;
-	text-shadow: 0 0 6px white;
-	-webkit-text-stroke: 0.1px white;
+	-webkit-text-stroke: 0.1px black;
 	-webkit-font-smoothing: antialiased;
 }
 
