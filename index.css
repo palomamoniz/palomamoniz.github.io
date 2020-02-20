@@ -477,7 +477,6 @@ pointer-events:none;
 	flex-direction:row;
 	box-sizing: border-box;
     float: right;
-	margin-top: -5px;
 	align-content: flex-end;
 	align-items: flex-end;
 	text-align: right;
