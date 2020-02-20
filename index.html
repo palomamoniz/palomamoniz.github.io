@@ -371,10 +371,10 @@ $(document).ready(function(){
         var thisElemName = this.querySelector(".numero").innerHTML;
 
         var diferenca =
-          0; // isto é a distancia entre cada seccao. 0 significa que mal acaba uma seccao comeca a outra, se quiseres que haja alguma distancia é so mudares este valor (em pixeis). Por exemplo, se puseres 300 aqui, acaba uma seccao e um texto desaparece, so 300 pixeis depois é que aparece o texto da seccao seguinte.
-        var trigger = 0.53 // isto é o valor que determina a posicao do trigger, vai de 0 a 1 e 0.1 significa 10% da altura do ecra
+          20; // isto é a distancia entre cada seccao. 0 significa que mal acaba uma seccao comeca a outra, se quiseres que haja alguma distancia é so mudares este valor (em pixeis). Por exemplo, se puseres 300 aqui, acaba uma seccao e um texto desaparece, so 300 pixeis depois é que aparece o texto da seccao seguinte.
+        var trigger = 0.9 // isto é o valor que determina a posicao do trigger, vai de 0 a 1 e 0.1 significa 10% da altura do ecra
         var posicaoInicial =
-          50 // isto é a diferenca entre o inicio da seccao, ou seja por exemplo: a primeira seccao comeca logo no topo do site, o pixel 0 do site é a primeira seccao, logo o trigger start dessa seccao é o pixel nº 0. Ao dizeres offset 300 estas a dizer que esse start é 300 pixeis abaixo
+          25 // isto é a diferenca entre o inicio da seccao, ou seja por exemplo: a primeira seccao comeca logo no topo do site, o pixel 0 do site é a primeira seccao, logo o trigger start dessa seccao é o pixel nº 0. Ao dizeres offset 300 estas a dizer que esse start é 300 pixeis abaixo
 
         new ScrollMagic.Scene({
             duration: thisElem.clientHeight - diferenca,
